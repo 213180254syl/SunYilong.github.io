@@ -42,7 +42,7 @@ I show my CV here to give more details on my personal experience.
  
  * Patent pending on tape and paper from the research results
  
- * I learned in the lab to use __Cadence ADE__ to test the performance of the circuits and adjust the circuit structure and transistor parameters based on the simulation results. The part I was mainly responsible for mainly includes the LNA used by the receiver.
+ * I learned in the lab to use __Cadence ADE__ to test the performance of the circuits and adjust the circuit structure and transistor parameters based on the simulation results.
 
 ![Image of CV](CV_Yilong%20Sun.png)
 
