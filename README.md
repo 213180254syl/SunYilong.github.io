@@ -8,7 +8,7 @@ My research interests lie in design of analog and mixed signal circuits. I've do
 
 I show my CV here to give more details on my personal experience.
 
-<div align=center>#### _Education_</div>
+#### _Education_
 
 1)School of Physics
   Duration:Sep 2018-Jun 2019
