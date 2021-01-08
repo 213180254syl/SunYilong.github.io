@@ -10,7 +10,7 @@ Here I have listed my CV and transcript in order to let you know more about me.
 
 ### CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I show my CV here to give more details on my personal experience.
 
 ```markdown
 Syntax highlighted code block
