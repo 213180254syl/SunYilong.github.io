@@ -12,13 +12,17 @@ I show my CV here to give more details on my personal experience.
 
 1)  __School of Physics__
 
-  * Duration:Sep 2018-Jun 2019
+  * Duration: Sep 2018-Jun 2019
 
   * Relevant Course: Calculus(94), Optics(98), Electromagnetism(94), Programming and Algorithm(98)
   
   * I took courses in optics and electromagnetics in the School of Physics. These two courses helped me develop my ability to think logically and gave me an advantage over others in understanding complex concepts. 
 
 2)  __School of Information Science and Engineering__
+
+  * Duration: Sep 2019-Jun 2022
+  
+  * Relevant Courses: Partial Differential Equations(96), Physics II(100), _Fundamental of Circuits(99), Digital and Logic Circuits(96), Analog Integrated Circuits(95),_ Electromagnetic Wave and Electromagnetic Field(97), Signals and Systems(93), Microcomputer Systems and Interfaces(94)
 
 
 ![Image of CV](CV_Yilong%20Sun.png)
