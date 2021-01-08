@@ -20,7 +20,7 @@ I took courses in optics and electromagnetics in the School of Physics. These tw
 
 <div align=center>
 ![Image of CV](CV_Yilong%20Sun.png)
-<div align=right>
+<div align=left>
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
 ### Transcript
