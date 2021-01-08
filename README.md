@@ -28,7 +28,21 @@ I show my CV here to give more details on my personal experience.
   
   * I took several courses related to circuits here, which gave me a firm grounding in the analysis and design of MOS and bipolar analog integrated circuits and laid the foundation for my future work in the laboratory. 
 
+### _Researches and Projects_
 
+1) __Design of Wideband Reconfigurable Anti-Interference Receiver__
+
+ * Advisor: Fengyi Huang, Professor at School of Information Science and Engineering, Southeast University
+ 
+ * Studied and applied the structures of transceiver and anti-interference technique
+ 
+ * Built quantitative relationships between the anti-interference performance and noise figure index of the circuits
+ 
+ * Tested different structures like n-path filter, ADPLL, nonreciprocal filter, etc. to meet the specifications for an improvement on preexisting models
+ 
+ * Patent pending on tape and paper from the research results
+ 
+ 
 ![Image of CV](CV_Yilong%20Sun.png)
 
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
