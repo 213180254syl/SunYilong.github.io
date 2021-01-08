@@ -20,10 +20,14 @@ The download link for CV is https://github.com/213180254syl/SunYilong.github.io/
 
 ### TOEFL Score
 
-My score on TOEFL test in December 2020 is 99.
+My score on TOEFL test in December 2020 was 99.
+
 -Reading:     27
+
 -Listening:   28
+
 -Speaking:    20
+
 -Writing:     24
 
 ![Image of TOEFL Score](TOEFL_SCORES.png)
