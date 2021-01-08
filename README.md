@@ -8,6 +8,12 @@ My research interests lie in design of analog and mixed signal circuits. I've do
 
 I show my CV here to give more details on my personal experience.
 
+*Education*
+*School of Physics
+  *Duration:Sep 2018-Jun 2019
+  *Relevant Course: Calculus(94), Optics(98), Electromagnetism(94), Programming and Algorithm(98)
+  
+I took courses in optics and electromagnetics in the School of Physics. These two courses helped me develop my ability to think logically and gave me an advantage over others in understanding complex concepts. 
 
 ![Image of CV](CV_Yilong%20Sun.png)
 
