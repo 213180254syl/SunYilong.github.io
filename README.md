@@ -25,6 +25,8 @@ I show my CV here to give more details on my personal experience.
   * Duration: Sep 2019-Jun 2022
   
   * Relevant Courses: Partial Differential Equations(96), Physics II(100), __Fundamental of Circuits(99), Digital and Logic Circuits(96), Analog Integrated Circuits(95),__ Electromagnetic Wave and Electromagnetic Field(97), Signals and Systems(93), Microcomputer Systems and Interfaces(94)
+  
+  * I took several courses related to circuits here, which gave me a firm grounding in the analysis and design of MOS and bipolar analog integrated circuits and laid the foundation for my future work in the laboratory. 
 
 
 ![Image of CV](CV_Yilong%20Sun.png)
