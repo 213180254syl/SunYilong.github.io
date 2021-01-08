@@ -10,7 +10,7 @@ I show my CV here to give more details on my personal experience.
 
 <div align=center>
 #### _Education_
-<div align=left>
+</div>
 
 1)School of Physics
   Duration:Sep 2018-Jun 2019
