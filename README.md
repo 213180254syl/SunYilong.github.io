@@ -1,10 +1,10 @@
 ## Welcome to Sun Yilong's Personal Website!
 
-Welcome! My name is Yilong and I am a junior undergraduate in the School of Information Science and Engineering of Southeast University.
+Welcome! My name is Yilong and I am a junior undergraduate in the School of Information Science and Engineering of Southeast University. Before I transferred to the School of Information Science and Engineering, I studied in the School of Physics for one year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie in design of analog and mixed signal circuits. I've done some work on the wideband reconfigurable anti-interference receiver.
 
-### Markdown
+### CV
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
