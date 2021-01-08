@@ -6,7 +6,9 @@ My research interests lie in design of analog and mixed signal circuits. I've do
 
 ## CV
 ***
+
 I show my CV here to give more details on my personal experience.
+
 ***
 ### _Education_
 
@@ -22,7 +24,7 @@ I show my CV here to give more details on my personal experience.
 
   * Duration: Sep 2019-Jun 2022
   
-  * Relevant Courses: Partial Differential Equations(96), Physics II(100), _Fundamental of Circuits(99), Digital and Logic Circuits(96), Analog Integrated Circuits(95),_ Electromagnetic Wave and Electromagnetic Field(97), Signals and Systems(93), Microcomputer Systems and Interfaces(94)
+  * Relevant Courses: Partial Differential Equations(96), Physics II(100), __Fundamental of Circuits(99), Digital and Logic Circuits(96), Analog Integrated Circuits(95),__ Electromagnetic Wave and Electromagnetic Field(97), Signals and Systems(93), Microcomputer Systems and Interfaces(94)
 
 
 ![Image of CV](CV_Yilong%20Sun.png)
