@@ -16,10 +16,14 @@ I show my CV here to give more details on my personal experience.
 
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
-### Jekyll Themes
+### Transcript
 
+### TOEFL Score
 
+My score on TOEFL test in December 2020 is 99.
+-Reading:     27
+-Listening:   28
+-Speaking:    20
+-Writing:     24
 
-### Support or Contact
-
-
+![Image of TOEFL Score](TOEFL_SCORES.png)
