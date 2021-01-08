@@ -34,11 +34,11 @@ I show my CV here to give more details on my personal experience.
 
  * Advisor: __Fengyi Huang__, Professor at School of Information Science and Engineering, Southeast University
  
- * Studied and applied the structures of transceiver and anti-interference technique
+ * Studied and applied the structures of __transceiver and anti-interference technique__
  
  * Built quantitative relationships between the anti-interference performance and noise figure index of the circuits
  
- * Tested different structures like n-path filter, ADPLL, nonreciprocal filter, etc. to meet the specifications for an improvement on preexisting models
+ * Tested different structures like __n-path filter, ADPLL, nonreciprocal filter, etc.__ to meet the specifications for an improvement on preexisting models
  
  * Patent pending on tape and paper from the research results
  
