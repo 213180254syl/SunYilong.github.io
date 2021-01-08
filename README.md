@@ -12,7 +12,7 @@ Here I have listed my CV and transcript in order to let you know more about me.
 
 I show my CV here to give more details on my personal experience.
 
-![Image of CV](CV_Yilong%20Sun.png)
+![Image of CV](/CV_Yilong%20Sun.png)
 
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
