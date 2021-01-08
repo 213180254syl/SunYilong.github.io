@@ -5,18 +5,18 @@ Welcome! My name is Yilong and I am a junior undergraduate in the School of Info
 My research interests lie in design of analog and mixed signal circuits. I've done some work on the wideband reconfigurable anti-interference receiver and software defined radio simulation toolbox. Here I have listed my CV and transcript in order to let you know more about me.
 
 ### CV
-
+***
 I show my CV here to give more details on my personal experience.
-
+***
 #### _Education_
 
-1)__School of Physics__
+1)  __School of Physics__
 
-Duration:Sep 2018-Jun 2019
+  Duration:Sep 2018-Jun 2019
 
-Relevant Course: Calculus(94), Optics(98), Electromagnetism(94), Programming and Algorithm(98)
+  Relevant Course: Calculus(94), Optics(98), Electromagnetism(94), Programming and Algorithm(98)
   
-I took courses in optics and electromagnetics in the School of Physics. These two courses helped me develop my ability to think logically and gave me an advantage over others in understanding complex concepts. 
+  I took courses in optics and electromagnetics in the School of Physics. These two courses helped me develop my ability to think   logically and gave me an advantage over others in understanding complex concepts. 
 
 2)__School of Information Science and Engineering__
 
