@@ -14,6 +14,7 @@ I show my CV here to give more details on my personal experience.
 
 ![Image of CV](https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.png)
 
+The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
 ### Jekyll Themes
 
