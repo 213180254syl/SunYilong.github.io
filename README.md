@@ -48,6 +48,12 @@ I show my CV here to give more details on my personal experience.
 
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
+### _Professional Skills_
+
+ * Circuit design: using __Cadence Virtuoso Schematic Editor, Virtuoso Analog Design Environment (ADE)__ to design and simulate analog and RF circuits; utilizing Simulink in MATLAB to model communication systems.
+ * Programming: having basic grasp of data structure, high-level programming language including __C++, Java and MATLAB__.
+
+
 ## Transcript
 
 ## TOEFL Score
