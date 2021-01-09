@@ -73,6 +73,12 @@ My score on TOEFL test in December 2020 was 99.
 - Speaking:    20
 - Writing:     24
 
+***
+
+Preview my CV and TOEFL Score
+
+***
+
 ***Image of CV***
 
 ![Image of CV](CV_Yilong%20Sun.png)
