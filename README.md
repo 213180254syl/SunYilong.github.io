@@ -52,7 +52,7 @@ Education experience, Research results and Professional Skills.
  * Used All-Digital Phase-Locked Loop technology to identify the center frequency of the input signal
 
 
-The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
+The download link for CV is __https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf__
 
 ### _Professional Skills_
 
@@ -61,10 +61,22 @@ The download link for CV is https://github.com/213180254syl/SunYilong.github.io/
 
 ## TOEFL Score
 
+***
+
+Ability to use English in an academic environment
+
+***
+
 My score on TOEFL test in December 2020 was 99.
 - Reading:     27
 - Listening:   28
 - Speaking:    20
 - Writing:     24
+
+* Image of CV
+
 ![Image of CV](CV_Yilong%20Sun.png)
+
+* Image of TOEFL Score
+
 ![Image of TOEFL Score](TOEFL_SCORES.png)
