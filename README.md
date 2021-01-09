@@ -1,13 +1,12 @@
 # Welcome to Sun Yilong's Personal Website!
 
-Welcome! My name is Yilong and I am a junior undergraduate in the School of Information Science and Engineering of Southeast University. Before I transferred to the School of Information Science and Engineering, I studied in the School of Physics for one year.
+Welcome! My name is Yilong and I am a junior undergraduate in School of Information Science and Engineering of Southeast University. Before I transferred to School of Information Science and Engineering, I studied in School of Physics for one year.
 
-My research interests lie in design of analog and mixed signal circuits. I've done some work on the wideband reconfigurable anti-interference receiver and software defined radio simulation toolbox. Here I have listed my CV and transcript in order to let you know more about me.
-
+My research interests lie in design of analog and mixed signal circuits. I've done some work on the wideband reconfigurable anti-interference receiver and software defined radio simulation toolbox.
 ## CV
 ***
 
-I show my CV here to give more details on my personal experience.
+Education experience, Research results and Professional Skills.
 
 ***
 ### _Education_
@@ -44,7 +43,14 @@ I show my CV here to give more details on my personal experience.
  
  * I learned in the lab to use __Cadence ADE__ to test the performance of the circuits and adjust the circuit structure and transistor parameters based on the simulation results.
 
-![Image of CV](CV_Yilong%20Sun.png)
+2) __Design of Wideband Reconfigurable Anti-Interference Receiver__
+
+ * Designed a graphical user interface of Software Defined Radio (SDR) with C++
+ 
+ * Wrote a program utilizing deep learning algorithms to identify the modulation mode of the signal according to the time domain and frequency domain waveform of the input signal
+ 
+ * Used All-Digital Phase-Locked Loop technology to identify the center frequency of the input signal
+
 
 The download link for CV is https://github.com/213180254syl/SunYilong.github.io/blob/main/CV_Yilong%20Sun.pdf
 
@@ -53,9 +59,6 @@ The download link for CV is https://github.com/213180254syl/SunYilong.github.io/
  * Circuit design: using __Cadence Virtuoso Schematic Editor, Virtuoso Analog Design Environment (ADE)__ to design and simulate analog and RF circuits; utilizing Simulink in MATLAB to model communication systems.
  * Programming: having basic grasp of data structure, high-level programming language including __C++, Java and MATLAB__.
 
-
-## Transcript
-
 ## TOEFL Score
 
 My score on TOEFL test in December 2020 was 99.
@@ -63,4 +66,5 @@ My score on TOEFL test in December 2020 was 99.
 - Listening:   28
 - Speaking:    20
 - Writing:     24
+![Image of CV](CV_Yilong%20Sun.png)
 ![Image of TOEFL Score](TOEFL_SCORES.png)
