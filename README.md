@@ -37,13 +37,13 @@ Education experience, Research results and Professional Skills.
  
  * Built quantitative relationships between the anti-interference performance and noise figure index of the circuits
  
- * Tested different structures like __n-path filter, ADPLL, nonreciprocal filter, etc.__ to meet the specifications for an improvement on preexisting models
+ * Tested different structures like __analog front-ends with n-path filter, mixer-first, etc.__ to meet the specifications for an improvement on preexisting models
  
  * Patent pending on tape and paper from the research results
  
  * I learned in the lab to use __Cadence ADE__ to test the performance of the circuits and adjust the circuit structure and transistor parameters based on the simulation results.
 
-2) __Design of Wideband Reconfigurable Anti-Interference Receiver__
+2) __Design of Software Defined Radio Simulation Toolbox__
 
  * Designed a graphical user interface of Software Defined Radio (SDR) with C++
  
