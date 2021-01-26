@@ -1,6 +1,6 @@
 # Welcome to Yilong Sun's Personal Website!
 
-Welcome! My name is Yilong and I am a junior undergraduate in School of Information Science and Engineering of Southeast University. Before I transferred to School of Information Science and Engineering, I studied in School of Physics for one year.
+Welcome! My name is Yilong and I am a junior undergraduate at School of Information Science and Engineering in Southeast University. Before I transferred to School of Information Science and Engineering, I studied in School of Physics for one year.
 
 My research interests lie in design of analog and mixed signal circuits. I've done some work on the wideband reconfigurable anti-interference receiver and software defined radio simulation toolbox.
 ## CV
