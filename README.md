@@ -6,7 +6,7 @@ My research interests lie in design of analog and mixed signal circuits. I've do
 ## CV
 ***
 
-Education experience, Research results and Professional Skills.
+Education Experience, Research Results and Professional Skills.
 
 ***
 ### _Education_
