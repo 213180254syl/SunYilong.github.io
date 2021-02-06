@@ -69,6 +69,10 @@ The download link for CV is __https://github.com/213180254syl/SunYilong.github.i
  * Circuit design: using __Cadence Virtuoso Schematic Editor, Virtuoso Analog Design Environment (ADE)__ to design and simulate analog and RF circuits; utilizing Simulink in MATLAB to model communication systems.
  * Programming: having basic grasp of data structure, high-level programming language including __C++, Java and MATLAB__.
 
+<br/>
+<br/>
+<br/>
+
 # TOEFL Score
 
 ***
